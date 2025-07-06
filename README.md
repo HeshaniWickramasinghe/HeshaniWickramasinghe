@@ -43,20 +43,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-## <span style="color:#FFD700;"><strong>🌐 Connect With Me</strong></span>
-
-<p align="center">
-  <a href="https://facebook.com/heshani.wickramasinghe" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/he_s_ha_ni_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
 
 
 ### 🏆 GitHub Trophies
@@ -77,6 +63,20 @@
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshani&theme=radical" width="70%" />
+</p>
+
+---
+---
+
+## <span style="color:#FFD700;"><strong>🌐 Connect With Me</strong></span>
+
+<p align="center">
+  <a href="https://facebook.com/heshani.wickramasinghe" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/he_s_ha_ni_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
