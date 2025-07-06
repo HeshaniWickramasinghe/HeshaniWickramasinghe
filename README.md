@@ -43,11 +43,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
+---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heshani&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heshani&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -65,7 +65,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshani&theme=radical" width="70%" />
 </p>
 
----
 ---
 
 ## <span style="color:#FFD700;"><strong>🌐 Connect With Me</strong></span>
