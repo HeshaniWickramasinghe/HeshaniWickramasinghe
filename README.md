@@ -1,4 +1,9 @@
 <!-- Modern GitHub Profile README for Heshani Wickramasinghe -->
+<p align="center">
+  <!-- 👩‍💻 Developer-themed animation GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer animation" width="60%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Heshani Wickramasinghe</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer from Sri Lanka</h3>
 
@@ -14,11 +19,11 @@
 
 ---
 
-- 🌱 Currently learning **React, Vue, UI/UX Design**
-- 👨‍🎓 Undergraduate at **SLIIT**
-- 💬 Ask me about **Web Development & Frontend Technologies**
-- 📫 Reach me at **wickramasinghheshani@gmail.com**
-- ⚡ Fun fact: **Call me Heshani!**
+- 🌱 Currently learning **React, Vue, UI/UX Design**  
+- 👨‍🎓 Undergraduate at **SLIIT**  
+- 💬 Ask me about **Web Development & Frontend Technologies**  
+- 📫 Reach me at **wickramasinghheshani@gmail.com**  
+- ⚡ Fun fact: **Call me Heshani!**  
 
 ---
 
