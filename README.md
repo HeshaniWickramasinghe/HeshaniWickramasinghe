@@ -65,3 +65,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshani&layout=compact&theme=onedark&hide_border=true&border_radius=10" width="50%" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+🚀" />
+</p>
