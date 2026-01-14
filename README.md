@@ -25,8 +25,9 @@
       <td width="50%" align="left" style="vertical-align: top; background-color: #0d1117; border-radius: 15px; padding: 20px;">
         <h3 style="color: #F3A5FF; margin-top: 0;">🚀 Who Am I?</h3>
         <p style="color: #ffffff; font-family: sans-serif; line-height: 1.6;">
-          I am a passionate <b>IT Undergraduate at SLIIT</b> focused on building beautiful and functional web applications. 
-          I love turning complex problems into simple, elegant designs.
+          I am a
+          <b>Computer Science Enthusiast</b> and <b>IT Undergraduate at SLIIT</b>.
+          I specialize in <b>Frontend Development</b> and am passionate about creating clean, user-friendly digital experiences.
         </p>
         <hr style="border: 0.5px solid #333;" />
         <p>
@@ -41,14 +42,14 @@
 <br />
 
 <div align="center">
-  <h2 style="color: #F3A5FF;">🛠️ Tech Stack</h2>
+  <h2 style="color: #F3A5FF;">🛠️ Tech Stack & Tools</h2>
   <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,bootstrap,nodejs,php,java,mysql,mongodb,firebase,figma,vscode,git,github,postman,linux&perline=10" />
 </div>
 
 <br />
 
 <div align="center">
-  <h2 style="color: #F3A5FF;">📊 GitHub Activity</h2>
+  <h2 style="color: #F3A5FF;">📊 Contribution Metrics</h2>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshani&theme=dracula" width="100%" />
   
@@ -69,7 +70,7 @@
 <br />
 
 <div align="center">
-  <h2 style="color: #F3A5FF;">🏆 Official Achievements</h2>
+  <h2 style="color: #F3A5FF;">🏆 GitHub Achievements</h2>
   <img src="https://github-profile-utils.vercel.app/api/achievements?username=heshani" width="100%" style="max-width: 800px;" />
 </div>
 
@@ -79,11 +80,16 @@
   <h2 style="color: #F3A5FF;">🤝 Let's Connect</h2>
   <a href="https://linkedin.com/in/heshani"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/he_s_ha_ni_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:wickramasinghheshani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:Wickramasinghheshani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,25&height=150&section=footer&text=Happy%20Coding!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,25&height=150&section=footer&text=Thank+You+For+Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
+  <br />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
