@@ -22,7 +22,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFkNnE2anN5c2FjZjNwdGtpZHVtZHo3Zjh2M2x1N24wMGZoM2tkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/begSgSG5lCl8bxkBiv/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR6M3lvbWVwYzR6cWR1OHl3ZGhteGlnZWd5a2pkc2l3enVoN2s3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🌱 Currently learning: **React, Vue.js, UI/UX Design**
 - 🎓 Undergraduate at: **SLIIT**
@@ -72,7 +72,7 @@
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heshani&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heshani&theme=radical&no-frame=false&no-bg=true&margin-w=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -80,13 +80,18 @@
 ## 📊 **GitHub Statistics**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heshani&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heshani&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heshani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heshani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshani&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=heshani&theme=redical&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshani&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=heshani&limit=5&theme=tokyonight&hide_border=true" alt="Top Contributed Repos" />
+</p>
+
+<!-- Alternative Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Contribution Graph">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -104,7 +109,7 @@
 ## 📈 **Contribution Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani&custom_title=Heshani's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true&hide_border=true" width="100%" alt="Activity Graph">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
