@@ -22,7 +22,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR6M3lvbWVwYzR6cWR1OHl3ZGhteGlnZWd5a2pkc2l3enVoN2s3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFkNnE2anN5c2FjZjNwdGtpZHVtZHo3Zjh2M2x1N24wMGZoM2tkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/begSgSG5lCl8bxkBiv/giphy.gif">
 
 - 🌱 Currently learning: **React, Vue.js, UI/UX Design**
 - 🎓 Undergraduate at: **SLIIT**
